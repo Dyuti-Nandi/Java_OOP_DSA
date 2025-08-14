@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryNumberSystem-Maths/BinaryNumberSystem-Maths.iml" filepath="$PROJECT_DIR$/BinaryNumberSystem-Maths/BinaryNumberSystem-Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/Hashmap/Hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA OOPS.iml" filepath="$PROJECT_DIR$/.idea/JAVA OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS_PRACTICE/OOPS_PRACTICE.iml" filepath="$PROJECT_DIR$/OOPS_PRACTICE/OOPS_PRACTICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks_Queues/Stacks_Queues.iml" filepath="$PROJECT_DIR$/Stacks_Queues/Stacks_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcsnqt/tcsnqt.iml" filepath="$PROJECT_DIR$/tcsnqt/tcsnqt.iml" />
+    </modules>
+  </component>
+</project>
