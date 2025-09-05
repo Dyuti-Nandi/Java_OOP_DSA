@@ -6,35 +6,36 @@ This repository contains Java programs developed while learning **Data Structure
 ## Topics Covered
 - **Java Basics:**
   - Variables, Data Types, Constants
-  - Operators (Arithmetic, Relational, Logical)
-  - Control Structures (if-else, switch-case)
-  - Loops (for, while, do-while)
-  - Functions/Methods (parameters, return types)
-  - Input/Output (Scanner, System.out)
-  - Exception Handling (try-catch, throws)
+  - Operators 
+  - Control Structures 
+  - Loops 
+  - Functions/Methods 
+  - Input/Output 
+  - Exception Handling 
 
 - **Object-Oriented Programming (OOP):**
   - Classes and Objects
-  - Constructors (default, parameterized)
-  - Inheritance (single, multilevel)
-  - Polymorphism (method overloading, overriding)
-  - Abstraction (abstract classes, interfaces)
-  - Encapsulation (getters/setters, access modifiers)
+  - Constructors 
+  - Inheritance 
+  - Polymorphism
+  - Abstraction 
+  - Encapsulation 
   - Composition & Aggregation
+  - Multithreading & Concurrency
 
 - **Data Structures:**
-  - Arrays (1D, 2D)
+  - Arrays 
   - Strings and String operations
-  - Linked Lists (Singly, Doubly)
+  - Linked Lists 
   - Stacks & Queues
-  - Trees (Binary Trees, Binary Search Trees)
-  - Hashing (HashMaps, HashSets)
+  - Trees 
+  - Hashing 
   - Recursion-based problems
 
 - **Algorithms:**
-  - Sorting Algorithms (Bubble, Selection, Insertion, Merge, Quick)
-  - Searching Algorithms (Linear, Binary Search)
-  - Recursion problems (factorial, Fibonacci, backtracking)
+  - Sorting Algorithms 
+  - Searching Algorithms 
+  - Recursion problems 
   - Algorithmic problem solving on LeetCode & other platforms
 
 - **Practice Problems:**
@@ -51,5 +52,6 @@ This repository contains Java programs developed while learning **Data Structure
 - Kunal Kushwaha’s Java Tutorials  
 - Official Java Documentation  
 - LeetCode & Practice Problems  
+
 
 
