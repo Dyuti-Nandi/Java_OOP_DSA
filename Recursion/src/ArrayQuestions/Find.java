@@ -12,8 +12,11 @@ public class Find {
         System.out.println(findIndexFromLast(arr, target, arr.length-1));
         findAllIndex(arr, target, 0);
         System.out.println(list);
-        ArrayList <Integer> list = new ArrayList<>();
-        System.out.println(findMulIndex(arr, target, 0, list));
+//        ArrayList <Integer> list = new ArrayList<>();
+//        System.out.println(findMulIndex(arr, target, 0, list));
+//        System.out.println(findMulIndex(arr, target, 0, new ArrayList<>()));
+        ArrayList<Integer> ans = findMulIndex(arr, target, 0, new ArrayList<>());
+        System.out.println(ans);
     }
 
     public static boolean find(int[] arr, int target, int index){
