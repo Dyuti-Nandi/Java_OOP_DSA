@@ -1,3 +1,5 @@
+package BasicQuestions;
+
 public class ReverseNumber {
     static int sum = 0;
     static void rev1(int n){

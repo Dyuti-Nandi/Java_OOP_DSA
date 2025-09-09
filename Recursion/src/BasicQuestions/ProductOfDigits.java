@@ -1,3 +1,5 @@
+package BasicQuestions;
+
 public class ProductOfDigits {
     public static void main(String[] args) {
         System.out.println(digitProduct(1239));

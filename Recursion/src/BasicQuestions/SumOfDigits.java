@@ -1,3 +1,5 @@
+package BasicQuestions;
+
 public class SumOfDigits {
     public static void main(String[] args) {
         System.out.println(digitSum(5280));

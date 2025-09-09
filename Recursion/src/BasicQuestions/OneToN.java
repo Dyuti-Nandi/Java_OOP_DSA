@@ -1,3 +1,5 @@
+package BasicQuestions;
+
 public class OneToN {
     public static void main(String[] args) {
         print(5);

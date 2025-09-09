@@ -1,3 +1,5 @@
+package BasicQuestions;
+
 public class PalindromeNumber {
     public static int rev(int n){
         int digits = (int)(Math.log10(n))+1;
